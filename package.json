@@ -1,5 +1,5 @@
 {
-  "name": "mnmlurl",
+  "name": "shortnme",
   "version": "2.5.0",
   "description": "Minimal URL is a modern URL shortener with support for custom alias",
   "main": "index.js",
@@ -11,19 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/liyasthomas/mnmlurl.git"
+    "url": "https://github.com/cmiweb/shortnme.git"
   },
   "keywords": [
     "url",
     "url-shortener",
     "free"
   ],
-  "author": "Liyas Thomas",
+  "author": "Claudiu Ionita",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/liyasthomas/mnmlurl/issues"
+    "url": "https://github.com/cmiweb/shortnme/issues"
   },
-  "homepage": "https://github.com/liyasthomas/mnmlurl#readme",
+  "homepage": "https://github.com/cmiweb/shortnme#readme",
   "dependencies": {
     "@babel/preset-env": "^7.7.4",
     "@babel/runtime": "^7.7.4",

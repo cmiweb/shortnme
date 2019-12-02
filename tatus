@@ -65,14 +65,6 @@
 [31m-    <meta property="og:title" content="mnmlurl">[m
 [31m-    <meta property="og:description" content="minimal url">[m
 [31m-    <meta property="og:image" content="manifest/icon-144x144.png">[m
-[31m-    <!-- Twitter -->[m
-[31m-    <meta name="twitter:card" content="summary">[m
-[31m-    <meta name="twitter:site" content="@liyasthomas">[m
-[31m-    <meta name="twitter:creator" content="@liyasthomas">[m
-[31m-    <meta name="twitter:url" content="https://mnmlurl.ml">[m
-[31m-    <meta name="twitter:title" content="mnmlurl">[m
-[31m-    <meta name="twitter:description" content="minimal url">[m
-[31m-    <meta name="twitter:image" content="manifest/icon-144x144.png">[m
 [31m-    <!-- Web Fonts -->[m
 [31m-    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">[m
 [31m-    <link rel="stylesheet" type="text/css" href="index.css">[m
@@ -128,14 +120,6 @@
 [32m+[m	[32m<meta property="og:title" content="mnmlurl">[m
 [32m+[m	[32m<meta property="og:description" content="minimal url">[m
 [32m+[m	[32m<meta property="og:image" content="manifest/icon-144x144.png">[m
-[32m+[m	[32m<!-- Twitter -->[m
-[32m+[m	[32m<meta name="twitter:card" content="summary">[m
-[32m+[m	[32m<meta name="twitter:site" content="@liyasthomas">[m
-[32m+[m	[32m<meta name="twitter:creator" content="@liyasthomas">[m
-[32m+[m	[32m<meta name="twitter:url" content="https://mnmlurl.ml">[m
-[32m+[m	[32m<meta name="twitter:title" content="mnmlurl">[m
-[32m+[m	[32m<meta name="twitter:description" content="minimal url">[m
-[32m+[m	[32m<meta name="twitter:image" content="manifest/icon-144x144.png">[m
 [32m+[m	[32m<!-- Web Fonts -->[m
 [32m+[m	[32m<link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">[m
 [32m+[m	[32m<link rel="stylesheet" type="text/css" href="index.css">[m
@@ -177,8 +161,6 @@
 [31m-        <div class="flex"></div>[m
 [31m-        <footer>[m
 [31m-            <p id="count"></p>[m
-[31m-            <p><a href="https://github.com/liyasthomas/mnmlurl/issues/new" target="_blank" rel="noopener">🍩 open an issue</a></p>[m
-[31m-            <a href="https://liyas-thomas.firebaseapp.com" target="_blank" rel="noopener">made with 💜 by liyas thomas</a>[m
 [31m-        </footer>[m
 [31m-    </div>[m
 [31m-    <script src="index.js"></script>[m
@@ -204,8 +186,6 @@
 [32m+[m		[32m<div class="flex"></div>[m
 [32m+[m		[32m<footer>[m
 [32m+[m			[32m<p id="count"></p>[m
-[32m+[m			[32m<p><a href="https://github.com/liyasthomas/mnmlurl/issues/new" target="_blank" rel="noopener">🍩 open an issue</a></p>[m
-[32m+[m			[32m<a href="https://liyas-thomas.firebaseapp.com" target="_blank" rel="noopener">made with 💜 by liyas thomas</a>[m
 [32m+[m		[32m</footer>[m
 [32m+[m	[32m</div>[m
 [32m+[m	[32m<script src="index.js"></script>[m
