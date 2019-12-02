@@ -1,7 +1,7 @@
 {
-	"name": "mnmlurl",
-	"short_name": "mnmlurl",
-	"description": "Minimal URL is a modern URL shortener with support for custom alias",
+	"name": "shortnme",
+	"short_name": "shortnme",
+	"description": "shortnme is a modern URL shortener with support for custom alias",
 	"icons": [
 		{
 			"src": "icons/icon-48x48.png",
